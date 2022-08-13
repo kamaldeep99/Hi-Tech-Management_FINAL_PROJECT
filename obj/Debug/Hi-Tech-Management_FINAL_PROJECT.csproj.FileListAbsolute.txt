@@ -1,0 +1,12 @@
+C:\Amit\cSharpClasses\DA3_FinalProject\Hi-Tech-Management_FINAL_PROJECT\obj\Debug\Hi-Tech-Management_FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Amit\cSharpClasses\DA3_FinalProject\Hi-Tech-Management_FINAL_PROJECT\obj\Debug\Hi-Tech-Management_FINAL_PROJECT.csproj.SuggestedBindingRedirects.cache
+C:\Amit\cSharpClasses\DA3_FinalProject\Hi-Tech-Management_FINAL_PROJECT\obj\Debug\Hi_Tech_Management_FINAL_PROJECT.GUI.FormEmployeeManagement.resources
+C:\Amit\cSharpClasses\DA3_FinalProject\Hi-Tech-Management_FINAL_PROJECT\obj\Debug\Hi_Tech_Management_FINAL_PROJECT.GUI.FormUserManagement.resources
+C:\Amit\cSharpClasses\DA3_FinalProject\Hi-Tech-Management_FINAL_PROJECT\obj\Debug\Hi_Tech_Management_FINAL_PROJECT.Properties.Resources.resources
+C:\Amit\cSharpClasses\DA3_FinalProject\Hi-Tech-Management_FINAL_PROJECT\obj\Debug\Hi-Tech-Management_FINAL_PROJECT.csproj.GenerateResource.cache
+C:\Amit\cSharpClasses\DA3_FinalProject\Hi-Tech-Management_FINAL_PROJECT\obj\Debug\Hi-Tech-Management_FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Amit\cSharpClasses\DA3_FinalProject\Hi-Tech-Management_FINAL_PROJECT\bin\Debug\Hi-Tech-Management_FINAL_PROJECT.exe.config
+C:\Amit\cSharpClasses\DA3_FinalProject\Hi-Tech-Management_FINAL_PROJECT\bin\Debug\Hi-Tech-Management_FINAL_PROJECT.exe
+C:\Amit\cSharpClasses\DA3_FinalProject\Hi-Tech-Management_FINAL_PROJECT\bin\Debug\Hi-Tech-Management_FINAL_PROJECT.pdb
+C:\Amit\cSharpClasses\DA3_FinalProject\Hi-Tech-Management_FINAL_PROJECT\obj\Debug\Hi-Tech-Management_FINAL_PROJECT.exe
+C:\Amit\cSharpClasses\DA3_FinalProject\Hi-Tech-Management_FINAL_PROJECT\obj\Debug\Hi-Tech-Management_FINAL_PROJECT.pdb
